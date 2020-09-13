@@ -1,0 +1,22 @@
+.carousel__main {
+  margin-top: -10px;
+  margin-left: 20px;
+  margin-right: 20px;
+  width: 85%;
+  margin-left: 100px;
+}
+img {
+  height: 70vh;
+  width: 100%;
+}
+
+@media (max-width: 770px) {
+  .carousel__main {
+    margin: 0 5%;
+    width: 90%;
+  }
+  img {
+    height: 50vh;
+    width: 100%;
+  }
+}

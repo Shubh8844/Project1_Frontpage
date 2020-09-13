@@ -1,0 +1,23 @@
+.navbar {
+  background-color: #05214d !important;
+  font-family: "Muli", sans-serif;
+  padding-right: 20px;
+}
+.active {
+  color: white;
+  padding: 10px;
+  margin: auto;
+}
+.nav__title {
+  padding-left: 95px;
+  font-size: 200%;
+}
+.nav__link {
+  display: flex;
+  flex-direction: column;
+}
+.nav__icon {
+  margin: auto;
+  height: 15px;
+  margin-bottom: 5px;
+}
